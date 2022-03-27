@@ -1,0 +1,9 @@
+.prices {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .prices:hover {
+    color: #fd3ff7;
+    cursor: pointer;
+  }
